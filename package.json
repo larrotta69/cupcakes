@@ -1,0 +1,23 @@
+{
+  "name": "cupcakes",
+  "version": "1.0.0",
+  "description": "Cupcakes factory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/larrotta69/cupcakes.git"
+  },
+  "author": "Andres Larrotta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/larrotta69/cupcakes/issues"
+  },
+  "homepage": "https://github.com/larrotta69/cupcakes#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0"
+  }
+}
